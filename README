@@ -1,0 +1,22 @@
+****************************************************************
+Name: Vidhi Bhargava
+ASU ID: 1217311498
+CSE 365 TTh 10:30AM
+****************************************************************
+This program is a security system that lets people into a house. 
+My code has a owner of the house, who is the only one allowed to 
+change keys, while they are in the house. Another exception is 
+that anyone with the firefighter key can get into the house.
+
+In order to get into the house you must follow the excat order:
+insert key, turn key, and enter house. 
+
+My code starts off with a while loop that is true. Inside it checks
+if the user input matches with any of the commands and performs the 
+appropriate tasks with them. As people are entering the house, a
+list is storing the keys and people inside the house. 
+
+With the command "whos inside" the code will print the list of people 
+inside the house. With the command "change locks" the owner can change 
+the keys. With the command "leave house", the user inside leaves. 
+Anything else results in error.
