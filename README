@@ -1,8 +1,5 @@
-****************************************************************
 Name: Vidhi Bhargava
-ASU ID: 1217311498
-CSE 365 TTh 10:30AM
-****************************************************************
+
 This program is a security system that lets people into a house. 
 My code has a owner of the house, who is the only one allowed to 
 change keys, while they are in the house. Another exception is 
